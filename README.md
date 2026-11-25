@@ -20,7 +20,7 @@ I'm a junior DevOps engineer with some expertise in BackEnd development using Ja
 [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RecursiveDeveloper)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoan-jesus-ortiz-sandoval-a66152198/)
 
-![image](https://tagui.readthedocs.io/en/latest/_images/tagui-logo.png)
+![image](https://repository-images.githubusercontent.com/75694548/a2874080-74a9-11eb-9c05-3e4802d4d30e)
 
 # Installation
 
@@ -41,8 +41,6 @@ Please refer to tagui doc for more info about [run options](https://tagui.readth
 
 * [Docker Engine](https://docs.docker.com/engine/)
 * [Docker Compose](https://docs.docker.com/compose/install/)
-
-![image](https://jhymer.dev/content/images/2020/05/docker-compose-1.png)
 
 ### Execution steps
 
@@ -70,8 +68,6 @@ docker compose down --volumes --rmi all
 * [install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 * [Install Ubuntu on WSL2 on Windows 10
 ](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
-
-![image](https://miro.medium.com/v2/resize:fit:1000/0*AQWATr3nj-H4Dao2.png)
 
 ### Execution steps
 
